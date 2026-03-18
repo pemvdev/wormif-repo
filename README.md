@@ -34,7 +34,7 @@ Algumas funcionalidades e diretrizes técnicas tratadas como requisitos de siste
 
 Fases do Projeto
 
-Iniciação * Configuração do repositório e ambiente de IA.
+Iniciação * Configuração do repositório.
 
     Definição do escopo (foco inicial em pragas agrícolas).
 
