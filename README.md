@@ -1,4 +1,7 @@
 # engenharia-de-software-g3
+
+# WormIf - Identificação Biológica e Metamorfose com IA
+
 Escopo Funcional (Funcionalidades do Sistema)
 
     Captura e Envio de Imagem: Interface para tirar fotos ou carregar arquivos do dispositivo com foco no espécime.
