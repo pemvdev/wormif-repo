@@ -40,11 +40,15 @@ Iniciação * Configuração do repositório e ambiente de IA.
 
     Estrutura de artefatos.
 
-1º - Requisitos: Mapeamento da ligação entre fases biológicas e critérios de identificação técnica.
-2º - Análise e Design: Arquitetura da IA em duas etapas e design de interface focado em usabilidade de campo.
-3º - Implementação: Treinamento do modelo de visão computacional e desenvolvimento das funcionalidades mobile.
-4º - Teste: Validação de precisão, testes de iluminação/camuflagem e revisão especializada.
-5º - Implantação: Lançamento do MVP e disponibilização da API de identificação.
-6º - Gerenciamento de Projeto: Monitoramento de taxas de acerto e ciclo de feedback dos especialistas.
+1º - Requisitos Mapeamento da ligação entre fases biológicas e critérios de identificação técnica.
 
+2º - Análise e Design Arquitetura da IA em duas etapas e design de interface focado em usabilidade de campo.
+
+3º - Implementação Treinamento do modelo de visão computacional e desenvolvimento das funcionalidades mobile.
+
+4º - Teste Validação de precisão, testes de iluminação/camuflagem e revisão especializada.
+
+5º - Implantação Lançamento do MVP e disponibilização da API de identificação.
+
+6º - Gerenciamento de Projeto Monitoramento de taxas de acerto e ciclo de feedback dos especialistas.
 Tema Proposto - Identificação de Estágios de Vida e Metamorfose com IA
