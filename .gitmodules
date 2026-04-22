@@ -1,3 +1,6 @@
 [submodule "WRIF/SubModulo/Wormif - Identificador de Estágios de Vida"]
 	path = WRIF/SubModulo/Wormif - Identificador de Estágios de Vida
 	url = https://github.com/pemvdev/wormif-app
+[submodule "WRIF/3.Implementação/wormif-app"]
+	path = WRIF/3.Implementação/wormif-app
+	url = https://github.com/pemvdev/wormif-app.git
